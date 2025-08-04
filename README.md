@@ -48,6 +48,13 @@ Source: Simulated dataset for learning
 ---
 ### ⚙️ SQL Queries for Cafeteria Sales Insights
 For full SQL logic used in this analysis, check out:
-   📄[Click to view SQL queries](./sql_queries.md)
-
+- 📄[Click to view SQL queries](./sql_queries.md)
+---
+### 💡 Business Recommendations
+- Promote combo meals or discounts during off-peak hours to increase traffic
+- Expand Cheese Pizza offerings or similar high-selling items
+- Investigate why items like French Fries and Cold Coffee have low sales
+---
+### 🙋‍♀️ About the Author
+This project was created by **Shubhangi Sharma**, a beginner Data Analyst passionate about turning numbers into insights.
 
