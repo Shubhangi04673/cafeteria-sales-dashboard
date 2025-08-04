@@ -31,10 +31,10 @@
  ---
 ### 📂 Datasets
 You can view or download the raw datasets used in the project:
-- 📄[students.csv](students.csv) : Contains students informations
-- 📄[menu.csv](menu.csv) : Contains menu item details
-- 📄[discounts.csv](discounts.csv) : Contains information of discounts
-- 📄[orders.csv](orders.csv) : Contains orders details
+- 📄[students.csv](./students.csv) : Contains students informations
+- 📄[menu.csv](./menu.csv) : Contains menu item details
+- 📄[discounts.csv](./discounts.csv) : Contains information of discounts
+- 📄[orders.csv](./orders.csv) : Contains orders details
 Source: Simulated dataset for learning
 ---
 ### 🔧 Tools Used
