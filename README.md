@@ -27,7 +27,7 @@
   - Orders are fairly distributed but consistently spike during midday hours.
 --- 
 ### 📷 Interactive Dashboard
-- 🔗 [View Full Looker Studio Dashboard](https://lookerstudio.google.com/s/j6NniFQ06us)
+- 🔗 [View Full Looker Studio Dashboard](https://lookerstudio.google.com/embed/reporting/0295b4ec-48ba-44de-84d2-c556c7fd0c43/page/tEnnC)
  ---
 ### 📂 Datasets
 You can view or download the raw datasets used in the project:
